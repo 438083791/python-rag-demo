@@ -2,4 +2,4 @@
 Python+LangChain+Ollama+Chroma实现RAG问答
 
 
-测试提交
+[使用说明](https://blog.csdn.net/tadexinnian/article/details/155737947)
