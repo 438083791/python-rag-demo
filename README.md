@@ -2,6 +2,9 @@
 
 Python + LangChain + Ollama + Chroma 实现本地 RAG 问答示例。
 
+[使用说明](https://blog.csdn.net/tadexinnian/article/details/155737947)
+
+
 ## 项目结构
 
 ```
